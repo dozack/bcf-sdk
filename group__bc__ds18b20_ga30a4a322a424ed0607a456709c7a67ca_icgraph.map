@@ -1,0 +1,4 @@
+<map id="bc_ds18b20_init" name="bc_ds18b20_init">
+<area shape="rect" id="node2" href="$group__bc__ds18b20.html#gad21710a9d11d05eefb66a20ea24a9b19" title="Initialize multiple ds18b20 over channel B on Sensor Module. " alt="" coords="171,5,339,32"/>
+<area shape="rect" id="node3" href="$group__bc__ds18b20.html#gab43e69047d9129429e9bd7237b0db171" title="Initialize single ds18b20 over channel B on Sensor Module. " alt="" coords="387,5,544,32"/>
+</map>
